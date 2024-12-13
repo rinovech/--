@@ -1,0 +1,50 @@
+{
+  "graph": {
+    "vertex": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "arc": [
+      {
+        "from": "A",
+        "to": "D",
+        "order": 1
+      },
+      {
+        "from": "A",
+        "to": "D",
+        "order": 2
+      },
+      {
+        "from": "B",
+        "to": "E",
+        "order": 1
+      },
+      {
+        "from": "C",
+        "to": "E",
+        "order": 2
+      },
+      {
+        "from": "D",
+        "to": "G",
+        "order": 1
+      },
+      {
+        "from": "E",
+        "to": "F",
+        "order": 1
+      },
+      {
+        "from": "F",
+        "to": "G",
+        "order": 2
+      }
+    ]
+  }
+}
